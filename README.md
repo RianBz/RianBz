@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&height=35&lines=Building+software+that+solves+real+problems;Backend+%C2%B7+Automation+%C2%B7+Systems+%C2%B7+Security;Learning+by+building" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=35&lines=Building+software+that+solves+real+problems;Backend+%C2%B7+Automation+%C2%B7+Systems+%C2%B7+Security;Exploring+Blockchain+%C2%B7+DeFi+%C2%B7+Smart+Contracts;Learning+by+building" alt="Typing animation" />
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 I'm a **Systems Analyst and Software Developer** based in São Paulo, Brazil.
 
-I enjoy understanding software beyond isolated code — from APIs and data flow to automation, infrastructure and security.
+I enjoy understanding software beyond isolated code — from APIs and data flow to automation, infrastructure, security and decentralized systems.
 
 Currently focused on becoming a stronger software engineer through real projects, deeper fundamentals and increasingly complex systems.
 
@@ -56,7 +56,8 @@ Currently focused on becoming a stronger software engineer through real projects
 
 **Currently exploring**
 
-`Backend Engineering` · `SQL` · `Docker` · `Linux` · `Cybersecurity` · `System Design`
+`Backend Engineering` · `SQL` · `Docker` · `Linux` · `Cybersecurity`  
+`Blockchain` · `DeFi` · `Smart Contracts` · `System Design`
 
 </div>
 
@@ -66,27 +67,39 @@ Currently focused on becoming a stronger software engineer through real projects
 
 <table>
 <tr>
-<td width="33%" align="center">
+
+<td width="25%" align="center">
 
 ### Backend
 
 APIs, databases, testing and software architecture.
 
 </td>
-<td width="33%" align="center">
+
+<td width="25%" align="center">
 
 ### Automation
 
 Turning repetitive workflows into reliable software.
 
 </td>
-<td width="33%" align="center">
+
+<td width="25%" align="center">
 
 ### Systems
 
 Understanding how software, infrastructure and security interact.
 
 </td>
+
+<td width="25%" align="center">
+
+### Web3
+
+Exploring blockchain architecture, DeFi protocols and smart contracts.
+
+</td>
+
 </tr>
 </table>
 
