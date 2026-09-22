@@ -12,8 +12,8 @@
 <img src="https://img.shields.io/badge/GitHub-RianBz-111827?style=flat-square&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=flat-square&logo=linkedin&logoColor=22D3EE"/>
+<a href="https://www.linkedin.com/in/rian-bezerra-de-a-silva-154aa9205/">
+<img src="https://img.shields.io/badge/LinkedIn-Rian%20Bezerra-111827?style=flat-square&logo=linkedin&logoColor=22D3EE"/>
 </a>
 
 </div>
@@ -104,10 +104,10 @@ The goal is simple:
 
 ## What I value
 
-**Readable code** over clever code
-**Understanding** over memorization
-**Automation** over repetition
-**Fundamentals** before unnecessary complexity
+**Readable code** over clever code  
+**Understanding** over memorization  
+**Automation** over repetition  
+**Fundamentals** before unnecessary complexity  
 **Shipping** instead of endless planning
 
 <br/>
@@ -121,4 +121,3 @@ Always learning. Usually building.
 </sub>
 
 </div>
-
